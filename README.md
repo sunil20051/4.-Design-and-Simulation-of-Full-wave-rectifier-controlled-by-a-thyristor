@@ -66,5 +66,12 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2025-09-13 at 18 47 21_33b5f485](https://github.com/user-attachments/assets/01965516-5655-424e-b5f1-f36311dc736d)
+
 ## Output
+![WhatsApp Image 2025-09-13 at 18 47 22_d95157c1](https://github.com/user-attachments/assets/2431538a-09e9-431d-9e67-245f824cb07e)
+
+
 ## Result
+Thus ,the Experiment has been stimulated and the ouput has been verified using matlab
+successfully
